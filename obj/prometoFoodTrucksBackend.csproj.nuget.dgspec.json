@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\George\\Nextcloud\\Codestack\\Final Project\\prometoFoodTrucksBackend\\prometoFoodTrucksBackend.csproj": {}
+    "C:\\Users\\Nando\\CodeStack\\Week21\\prometoFoodTrucksBackend\\prometoFoodTrucksBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\George\\Nextcloud\\Codestack\\Final Project\\prometoFoodTrucksBackend\\prometoFoodTrucksBackend.csproj": {
+    "C:\\Users\\Nando\\CodeStack\\Week21\\prometoFoodTrucksBackend\\prometoFoodTrucksBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\George\\Nextcloud\\Codestack\\Final Project\\prometoFoodTrucksBackend\\prometoFoodTrucksBackend.csproj",
+        "projectUniqueName": "C:\\Users\\Nando\\CodeStack\\Week21\\prometoFoodTrucksBackend\\prometoFoodTrucksBackend.csproj",
         "projectName": "prometoFoodTrucksBackend",
-        "projectPath": "C:\\Users\\George\\Nextcloud\\Codestack\\Final Project\\prometoFoodTrucksBackend\\prometoFoodTrucksBackend.csproj",
-        "packagesPath": "C:\\Users\\George\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\George\\Nextcloud\\Codestack\\Final Project\\prometoFoodTrucksBackend\\obj\\",
+        "projectPath": "C:\\Users\\Nando\\CodeStack\\Week21\\prometoFoodTrucksBackend\\prometoFoodTrucksBackend.csproj",
+        "packagesPath": "C:\\Users\\Nando\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nando\\CodeStack\\Week21\\prometoFoodTrucksBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\George\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Nando\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
