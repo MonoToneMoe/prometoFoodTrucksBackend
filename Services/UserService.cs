@@ -1,7 +1,17 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
+using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using prometoFoodTrucksBackend.Models;
+using prometoFoodTrucksBackend.Models.DTO;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace prometoFoodTrucksBackend.Services.Context
 {

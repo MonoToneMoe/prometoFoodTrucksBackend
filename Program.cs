@@ -1,5 +1,8 @@
 using prometoFoodTrucksBackend.Services;
 using prometoFoodTrucksBackend.Services.Context;
+// using prometoFoodTrucksBackend.Services.DbContext;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +11,8 @@ builder.Services.AddScoped<AppServices>();
 builder.Services.AddScoped<UserService>();
 builder.Services.AddScoped<PasswordService>();
 
-builder.Services.AddDbContext<DataContext>(Options => Options.UseSqlServer(connectionString));
+var connectionString = builder.Configuration.GetConnectionString("PrometoString");
+builder.Services.AddDbContext<DataContext>(Options => Options.UseSqlServer("connectionString"));
 
 
 builder.Services.AddCors(options => options.AddPolicy("BlogPolicy", 

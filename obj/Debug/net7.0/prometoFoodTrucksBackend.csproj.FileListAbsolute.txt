@@ -1,0 +1,7 @@
+C:\Users\Nando\CodeStack\Week21\prometoFoodTrucksBackend\obj\Debug\net7.0\prometoFoodTrucksBackend.csproj.AssemblyReference.cache
+C:\Users\Nando\CodeStack\Week21\prometoFoodTrucksBackend\obj\Debug\net7.0\prometoFoodTrucksBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nando\CodeStack\Week21\prometoFoodTrucksBackend\obj\Debug\net7.0\prometoFoodTrucksBackend.AssemblyInfoInputs.cache
+C:\Users\Nando\CodeStack\Week21\prometoFoodTrucksBackend\obj\Debug\net7.0\prometoFoodTrucksBackend.AssemblyInfo.cs
+C:\Users\Nando\CodeStack\Week21\prometoFoodTrucksBackend\obj\Debug\net7.0\prometoFoodTrucksBackend.csproj.CoreCompileInputs.cache
+C:\Users\Nando\CodeStack\Week21\prometoFoodTrucksBackend\obj\Debug\net7.0\prometoFoodTrucksBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nando\CodeStack\Week21\prometoFoodTrucksBackend\obj\Debug\net7.0\prometoFoodTrucksBackend.MvcApplicationPartsAssemblyInfo.cache
